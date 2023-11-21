@@ -18,3 +18,5 @@ fetch('/make_request', {
     });
 
 To programmatically receive data from the microservice, you need to check the response from the /make_request endpoint.
+
+<img width="307" alt="Screenshot 2023-11-20 at 10 35 56 PM" src="https://github.com/canfieca-alt/CS361/assets/147674958/b058b8d9-fc31-4a60-9cb8-a06edd92dc6f">
