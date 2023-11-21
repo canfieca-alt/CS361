@@ -1,4 +1,4 @@
-# CS361 Instructions
+# CS361 Communication Contract
 
 To programmatically request data from the microservice, you need to make a POST request to the /make_request endpoint with the item information you want to add. Here's an example using JavaScript's Fetch API:
 
